@@ -1,0 +1,1 @@
+This script was used in a university marketing postion to find matches between students who had registered for our courses and students who also attended our webinars. The data was used to guide marketing decisions.
